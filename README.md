@@ -1,4 +1,4 @@
-##Regex Lesson 1
+## Regex Lesson 1
 
 
 Binder for lesson 1:   
@@ -10,12 +10,12 @@ Try lessons 1 to 15 if you can
 
    
    
-##Regex Lesson 2
+## Regex Lesson 2
 
 Binder for lesson 2:   
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tutorials-4newbies/regex-lessons/master?filepath=regex2.ipynb)
 
-###עבודה עצמית - בזוגות
+###עבודה עצמית - בזוגות 
 #### Setup
 
 Clone this repo to your pc   
